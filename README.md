@@ -1,6 +1,6 @@
 ### Hi! I am Rogelio! 🌐
 
-[![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/rogélio-reis)
+[![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogélio-reis)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rogeliofilho_reis/)
 
 ![Rogelio Reis GitHub stats](https://github-readme-stats.vercel.app/api?username=rogelioreis&show_icons=true&theme=dark)
