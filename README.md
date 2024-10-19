@@ -3,9 +3,9 @@
 [![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogélio-reis)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rogeliofilho_reis/)
 
-![Rogelio Reis GitHub stats](https://github-readme-stats.vercel.app/api?username=rogelioreis&show_icons=true&theme=transparent)
+![Rogelio Reis GitHub stats](https://github-readme-stats.vercel.app/api?username=rogelioreis&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogelioreis)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogelioreis&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## SKILLS
 
